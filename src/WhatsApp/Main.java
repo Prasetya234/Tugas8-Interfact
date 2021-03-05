@@ -48,9 +48,9 @@ public class Main {
             } else if (hasil.equalsIgnoreCase("6")){
                 app.nowChatIlham();
             } else if (hasil.equalsIgnoreCase("7")){
-                app.nowTelponMom();
+                app.nowTelponIlham();
             } else if (hasil.equalsIgnoreCase("8")){
-                app.nowTelponMom();
+                app.nowChatMom();
             } else if (hasil.equalsIgnoreCase("9")){
                 app.nowOpenStatus();
             } else if (hasil.equalsIgnoreCase("10")){
